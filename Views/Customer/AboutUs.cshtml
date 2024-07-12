@@ -1,0 +1,84 @@
+﻿@model IEnumerable<SoleMates.Models.AboutUs>
+@{
+    ViewData["Title"] = "AboutUs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@* <h1>AboutUs</h1> *@
+
+@* 
+@{
+    ViewBag.Title = "About Us";
+} *@
+
+<h2>About Us</h2>
+<p>Meet our team of dedicated professionals.</p>
+
+<div class="team-members">
+    <div class="team-member">
+        <img src="@Url.Content("~/assets/images/new/snehal.jpg")" alt="Alice Johnson" class="team-member-image" />
+        <div class="member-info">
+            <h3>Snehal Kudale</h3>
+            <p><strong>Team Lead</strong></p>
+            <p>Snehal is the visionary behind our company.</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="@Url.Content("~/images/pratik.jpg")" alt="Bob Smith" class="team-member-image" />
+        <div class="member-info">
+            <h3>Pratik Nandre</h3>
+            <p><strong>CTO</strong></p>
+            <p>Pratik leads our technology division.</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="@Url.Content("~/images/vaibhav.jpg")" alt="Carol White" class="team-member-image" />
+        <div class="member-info">
+            <h3>Vaibhav Eklare</h3>
+            <p><strong>CFO</strong></p>
+            <p>vaibhav manages our finances.</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="@Url.Content("~/images/ganesh.jpg")" alt="David Brown" class="team-member-image" />
+        <div class="member-info">
+            <h3>Ganesh Varkhede</h3>
+            <p><strong>COO</strong></p>
+            <p>Ganesh oversees our operations.</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="@Url.Content("~/assets/images/new/sushant.jpg")" alt="sushant" class="team-member-image" />
+        <div class="member-info">
+            <h3>Sushant Mohite</h3>
+            <p><strong>CMO</strong></p>
+            <p>Sushant is in charge of our marketing.</p>
+        </div>
+    </div>
+</div>
+
+<style>
+    .team-members {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .team-member {
+        margin: 20px;
+        text-align: center;
+        max-width: 200px;
+    }
+
+    .team-member-image {
+        width: 100%;
+        height: auto;
+        border-radius: 50%;
+    }
+
+    .member-info {
+        margin-top: 10px;
+    }
+</style>
+
+

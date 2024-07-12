@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\customer\\customerregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\customer\\customerregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\admin\\fetchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\admin\\fetchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|c:\\users\\snehal\\documents\\cdac\\ms .net\\e-commerce website\\solemates\\views\\customer\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D381477E-C6E1-47AB-8584-B7C256EE0B34}|SoleMates.csproj|solutionrelative:views\\customer\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myContext.cs",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Models\\myContext.cs",
+              "RelativeDocumentMoniker": "Models\\myContext.cs",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Models\\myContext.cs",
+              "RelativeToolTip": "Models\\myContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:04:05.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:51:01.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:20:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T10:54:41.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T09:17:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T13:39:01.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T09:09:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customerRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Customer\\customerRegistration.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\customerRegistration.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Customer\\customerRegistration.cshtml",
+              "RelativeToolTip": "Views\\Customer\\customerRegistration.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T08:20:51.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:00:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAlwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:59:13.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:54:48.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T10:56:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-11T11:01:37.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\scripts.js",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "wwwroot\\js\\scripts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-11T11:01:52.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fetchCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\fetchCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\fetchCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\fetchCustomer.cshtml",
+              "RelativeToolTip": "Views\\Admin\\fetchCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:07:50.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "customerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Customer\\customerLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\customerLogin.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Customer\\customerLogin.cshtml",
+              "RelativeToolTip": "Views\\Customer\\customerLogin.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:55:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Snehal\\Documents\\CDAC\\MS .Net\\E-Commerce Website\\SoleMates\\Views\\Admin\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T13:13:13.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

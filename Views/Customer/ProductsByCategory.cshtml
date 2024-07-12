@@ -1,0 +1,39 @@
+﻿@model List<SoleMates.Models.Product>
+@{
+    ViewData["Title"] = "ProductsByCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewData["category"] as List<SoleMates.Models.Category>;
+}
+
+<h2>Products By Category</h2>
+
+<div>
+    <select id="categorySelect" onchange="filterProductsByCategory()">
+        <option value="">Select Category</option>
+        @foreach (var category in categories)
+        {
+            <option value="@category.category_id">@category.category_name</option>
+        }
+    </select>
+</div>
+
+<div id="productList">
+    @foreach (var product in Model)
+    {
+        <div>
+            <h3>@product.product_name</h3>
+            <p>@product.product_description</p>
+            <p>Price: @product.product_price</p>
+        </div>
+    }
+</div>
+
+<script>
+    function filterProductsByCategory() {
+        var categoryId = document.getElementById('categorySelect').value;
+        if (categoryId) {
+            window.location.href = '@Url.Action("ProductsByCategory", "Customer")' + '/' + categoryId;
+        }
+    }
+</script>
+
